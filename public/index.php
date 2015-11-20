@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 
+=======
+git commit 1
+>>>>>>> waqas
 /**
  * Laravel - A PHP Framework For Web Artisans
  *

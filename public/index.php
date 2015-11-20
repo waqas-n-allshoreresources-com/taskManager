@@ -1,5 +1,4 @@
 <?php
-echo "on Waqas"; exit;
 
 /**
  * Laravel - A PHP Framework For Web Artisans

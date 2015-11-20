@@ -1,5 +1,7 @@
 <?php
 
+echo "Another Test with Conflict";
+
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
